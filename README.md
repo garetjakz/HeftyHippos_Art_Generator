@@ -1,4 +1,4 @@
-# HeftyHippos_Minting_Dapp
+# HeftyHippos Art Generator
 Source Code Changes to hashlips_art_engine-main Code
 Adds in:
 * DNA Based on layer names (used later for stuff)
